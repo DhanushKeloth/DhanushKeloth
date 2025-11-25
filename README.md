@@ -13,10 +13,6 @@ Fullstack Web Developer • Systems Enthusiast • Freelancer
 
 ## 🚀 Featured Projects
 
-- 💬 **LAN/WLAN Chat App**  
-  Offline-first messaging system over local networks  
-  > Tech: React, Socket.io, LAN APIs
-
 - 💻 **Real-Time Code Editor**  
   Browser-based collaborative coding with live preview  
   > Tech: React, Node.js, WebSocket
@@ -24,17 +20,24 @@ Fullstack Web Developer • Systems Enthusiast • Freelancer
 - 🏠 **Hostel Management System**  
   Built using React, Tailwind, Firebase  
   > Admin panel, real-time updates, authentication
+- **AI powered Resume Builder**
+  Built using React, Gemini, NLP, LateX compiler
+  >Job description parsing, keywords extraction, ATS score calculation
+- 💬 **LAN/WLAN Chat App**  
+  Offline-first messaging system over local networks  
+  > Tech: React, Socket.io, LAN APIs
 
-- 🧑‍💻 **CLI Chat Application**  
-  Terminal-based communication app with group messaging  
-  > Lightweight, efficient for low-end systems
-  
+
+
+
+
 ---
 
 ## 🔭 Currently Working On
 
-- Building **offline-first command-line tools** for communication  
-- Exploring **systems-level projects** for underpowered environments  
+- Building **AI powered Resume Builder** that increases your ATS score.  
+- Exploring **workflow automations** for solving real-time problems reduces manual work using n8n.
+- Working on Cloud based Application (Collaborative IDE).  
 
 ---
 
